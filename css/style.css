@@ -196,7 +196,7 @@
 .step-number {
   font-size: 8.6rem;
   font-weight: 600;
-  color: #ddd;
+  color: #bab9b9;
   margin-bottom: 1.2rem;
 }
 
@@ -288,13 +288,13 @@
 }
 
 .tag--vegetarian {
-  background-color: #51cf66;
+  background-color: #00f128;
 }
 .tag--vegan {
-  background-color: #94d82d;
+  background-color: #99ff00;
 }
 .tag--paleo {
-  background-color: #ffd43b;
+  background-color: #fad900;
 }
 
 .meal-title {
@@ -321,7 +321,7 @@
 .meal-icon {
   height: 2.4rem;
   width: 2.4rem;
-  color: #e67e22;
+  color: #cfc912;
 }
 
 .meal-img {
